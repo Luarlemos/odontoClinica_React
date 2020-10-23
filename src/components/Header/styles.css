@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Header{
+    background-color: #fff;
+    color: #913A66;
+    padding:20px 0px 20px 0px;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    padding-right: 20px;
+    margin-right: 10px;
+}

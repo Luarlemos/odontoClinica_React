@@ -1,0 +1,23 @@
+.Menu{
+    display:flex;
+    align-items: center;
+}
+.Menu ul{
+    display:flex;
+    align-items: flex-end;
+}
+.Menu ul li{
+    list-style: none;
+}
+.Menu ul li *{
+    color: #913A66;
+    padding:20px 10px 0px 10px;
+    text-decoration:none;
+
+}
+.Menu ul li *:hover{
+    font-weight: bold;
+}
+.Menu ul li *:active{
+    font-weight: bold;
+}
