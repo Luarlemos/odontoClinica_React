@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/odontoClinica_React/static/css/main.fff8f04e.chunk.css",
+    "main.js": "/odontoClinica_React/static/js/main.0e89f07a.chunk.js",
+    "main.js.map": "/odontoClinica_React/static/js/main.0e89f07a.chunk.js.map",
+    "runtime-main.js": "/odontoClinica_React/static/js/runtime-main.9efca2b6.js",
+    "runtime-main.js.map": "/odontoClinica_React/static/js/runtime-main.9efca2b6.js.map",
+    "static/js/2.c734646a.chunk.js": "/odontoClinica_React/static/js/2.c734646a.chunk.js",
+    "static/js/2.c734646a.chunk.js.map": "/odontoClinica_React/static/js/2.c734646a.chunk.js.map",
+    "index.html": "/odontoClinica_React/index.html",
+    "precache-manifest.3b98d622b3a683a7af74759d98771ffc.js": "/odontoClinica_React/precache-manifest.3b98d622b3a683a7af74759d98771ffc.js",
+    "service-worker.js": "/odontoClinica_React/service-worker.js",
+    "static/css/main.fff8f04e.chunk.css.map": "/odontoClinica_React/static/css/main.fff8f04e.chunk.css.map",
+    "static/js/2.c734646a.chunk.js.LICENSE.txt": "/odontoClinica_React/static/js/2.c734646a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9efca2b6.js",
+    "static/js/2.c734646a.chunk.js",
+    "static/css/main.fff8f04e.chunk.css",
+    "static/js/main.0e89f07a.chunk.js"
+  ]
+}
