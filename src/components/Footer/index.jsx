@@ -5,20 +5,16 @@ import { FaYoutube } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 
-import "./styles.css"
+import "./styles.css";
 
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="consultorio">
-        Ama Odonto
-      Clinica Odontológica
-      </div>
+      <div className="consultorio">Ama Odonto Clinica Odontológica</div>
       <div className="endereco">
-        Ama Odonto S/S LTDA CNPJ: 18.908.299/0001-42
-        EPAO: 489
-        Responsável Técnico: Dra. Julia CRO-CE: 7074
-     </div>
+        Ama Odonto S/S LTDA CNPJ: 18.908.299/0001-42 EPAO: 489 Responsável
+        Técnico: Dra. Julia CRO-CE: 7074
+      </div>
       <div className="footer__social">
         <a href="https://www.facebook.com">
           <FaFacebook size="40" color="#3b5998" />
@@ -32,10 +28,9 @@ const Footer = () => {
         <a href="https://www.instagram.com">
           <FaInstagram size="40" color="#000" />
         </a>
-
-
       </div>
-    </footer>)
+    </footer>
+  );
 };
 
 export default Footer;

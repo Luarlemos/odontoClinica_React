@@ -1,16 +1,16 @@
 import React from "react";
 import Menu from "../Menu";
-import './styles.css';
+import "./styles.css";
 
 // import { Container } from './styles';
 
 const Header = () => {
-  return(
+  return (
     <header className="Header">
-            <h2> Odonto Clínica</h2>   
-            <Menu /> 
-      </header>
-  )
+      <h2> Odonto Clínica</h2>
+      <Menu />
+    </header>
+  );
 };
 
 export default Header;

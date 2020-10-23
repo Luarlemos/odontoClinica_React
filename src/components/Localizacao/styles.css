@@ -1,32 +1,32 @@
 .Localizacao {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
-    margin-top: 100px;
-    margin-bottom: 250px;
+  margin-top: 100px;
+  margin-bottom: 250px;
 }
 
 #text-localizacao {
-    color: #DFC15E;
-    font-size: 54px;
-    font-family: "Ovo", Sans-serif;
-    font-weight: normal;
+  color: #dfc15e;
+  font-size: 54px;
+  font-family: "Ovo", Sans-serif;
+  font-weight: normal;
 }
 
 .info-localizacao {
-    margin-top: 50px;
-    font-size: 15px;
-    color: #A3A3A3;
+  margin-top: 50px;
+  font-size: 15px;
+  color: #a3a3a3;
 }
 
 .dados {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .mapa {
-    margin-left: 30px;
+  margin-left: 30px;
 }
 #img-mapa {
-    width: 25vw;
+  width: 25vw;
 }
