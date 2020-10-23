@@ -7,9 +7,9 @@ const Localizacao = () => {
     <div class="conteudo-localizacao">
       <h3 id="text-localizacao">LOCALIZAÇÃO</h3>
       <div class="info-localizacao">
-        <p id="endereco"><i class=""/>Rua Fulana de Tal, 711 - Bairro - Fortaleza-CE</p>
-        <p id="email"><i class=""/>odontoclinica@email.com</p>
-        <p id="telefone"><i class=""/>(85) 4002-8922</p>
+        <p id="endereco" class="dados">Rua Fulana de Tal, 711 - Bairro - Fortaleza-CE</p>
+        <p id="email" class="dados">odontoclinica@email.com</p>
+        <p id="telefone" class="dados">(85) 4002-8922</p>
       </div>
     </div>
     <div class="mapa">
