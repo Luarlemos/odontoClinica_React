@@ -1,0 +1,72 @@
+.testimony-card-container {
+  width: 50%;
+  display: flex;
+}
+
+.testimony-card-container .content {
+  width: 100%;
+  padding: 0.7rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.testimony-card-container .content .header {
+  margin-bottom: 1.25rem;
+  width: 100%;
+}
+
+.testimony-card-container .content .body {
+  width: 100%;
+
+  overflow: hidden;
+  text-align: center;
+}
+
+.testimony-card-container .content .body .text {
+  font-size: 1.3rem;
+  margin-bottom: 1.25rem;
+}
+
+.testimony-card-container .content .body .identity {
+  width: 100%;
+  line-height: 1;
+}
+
+.testimony-card-container .content .body .identity .content {
+  display: inline-block;
+  width: auto;
+}
+
+.testimony-card-container .content .body .identity .client-img-container {
+  padding-right: 1rem;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.testimony-card-container .content .body .identity .client-img-container img {
+  width: 60px;
+  height: 60px;
+
+  border-radius: 50%;
+  object-fit: cover;
+  max-width: none;
+}
+
+.testimony-card-container .content .body .identity .details {
+  text-align: left;
+
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.testimony-card-container .content .body .identity .details .name {
+  line-height: 1.5rem;
+  display: block;
+}
+
+.testimony-card-container .content .body .identity .details .job {
+  font-size: 0.85rem;
+  display: block;
+}

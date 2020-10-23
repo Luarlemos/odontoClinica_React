@@ -1,0 +1,51 @@
+[
+  {
+    "client": "Marcus",
+    "clientJob": "Desenvolvedor de Sistemas, Professor",
+    "clientImg": "https://picsum.photos/200",
+    "feedback": "Excelente clínica com um ótimo ambiente. Atendimento e tratamento especiais, diferente de qualquer outra clínica em que já estive.",
+    "feedback_summary": "Excelente clínica..."
+  },
+  {
+    "client": "Lu Lemos",
+    "clientJob": "Engenheira Eletricista, Desenvolvedora de Sistemas",
+    "clientImg": "https://picsum.photos/200",
+    "feedback": "Atendimento com hora marcada e super pontual. Clínica belíssima! Recomendo. A dra. Lorena surpreende pela atenção com a gente. Obrigada.",
+    "feedback_summary": "Atendimento com hora marcada..."
+  },
+  {
+    "client": "John Doe",
+    "clientJob": "Dono de casa",
+    "clientImg": "https://picsum.photos/200",
+    "feedback": "Excelente clínica com um ótimo ambiente. Atendimento e tratamento especiais, diferente de qualquer outra clínica em que já estive.",
+    "feedback_summary": "Excelente clínica..."
+  },
+  {
+    "client": "Jane Doe",
+    "clientJob": "Dona de casa",
+    "clientImg": "https://picsum.photos/200",
+    "feedback": "Atendimento com hora marcada e super pontual. Clínica belíssima! Recomendo. A dra. Lorena surpreende pela atenção com a gente. Obrigada.",
+    "feedback_summary": "Atendimento com hora marcada..."
+  },
+  {
+    "client": "Josilene Sousa",
+    "clientJob": "Policial Militar",
+    "clientImg": "https://picsum.photos/200",
+    "feedback": "Atendimento com hora marcada e super pontual. Clínica belíssima! Recomendo. A dra. Lorena surpreende pela atenção com a gente. Obrigada.",
+    "feedback_summary": "Atendimento com hora marcada..."
+  },
+  {
+    "client": "Roberto Siqueira",
+    "clientJob": "Vigilante",
+    "clientImg": "https://picsum.photos/200",
+    "feedback": "Excelente clínica com um ótimo ambiente. Atendimento e tratamento especiais, diferente de qualquer outra clínica em que já estive.",
+    "feedback_summary": "Excelente clínica..."
+  },
+  {
+    "client": "Francisco Jr.",
+    "clientJob": "Engenheiro Civil, Servidor Público",
+    "clientImg": "https://picsum.photos/200",
+    "feedback": "Excelente clínica com um ótimo ambiente. Atendimento e tratamento especiais, diferente de qualquer outra clínica em que já estive.",
+    "feedback_summary": "Excelente clínica..."
+  }
+]
